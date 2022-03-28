@@ -1,5 +1,6 @@
-# ERD url
+# ERD
 https://drawsql.app/asd-47/diagrams/amondz#
+![스크린샷 2022-03-29 01 29 03](https://user-images.githubusercontent.com/59189504/160444331-e5a9a19f-229b-454f-89c4-fb5a09d7a2b7.png)
 
 # 사용 방법
 
